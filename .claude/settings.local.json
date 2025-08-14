@@ -9,7 +9,9 @@
       "Bash(cat:*)",
       "Bash(rm:*)",
       "Bash(gh repo create:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(python test:*)"
     ],
     "deny": [],
     "ask": [],
